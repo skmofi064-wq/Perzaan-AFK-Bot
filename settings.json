@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "kingonlysever1.aternos.me:28620",
+    "port": 28620,
     "version": "1.21.1"
   },
   "position": {
